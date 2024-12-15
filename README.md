@@ -7,4 +7,4 @@ While creating, I learnt many interesting things and it helped me to strength my
 ## Check It Out!
 To view it, paste this link in the browser:
 <br>
-file:///E:/PROJECTS/Amazon-WebPage-Clone/index.html
+https://jc-kirthi.github.io/Amazon-WebPage-Clone/
